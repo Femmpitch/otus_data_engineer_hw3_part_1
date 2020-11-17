@@ -1,0 +1,23 @@
+[0m[[0m[0mdebug[0m] [0m[0mIncluding from cache: json4s-jackson_2.11-3.6.10.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0mIncluding from cache: jackson-annotations-2.9.10.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0mIncluding from cache: paranamer-2.8.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0mIncluding from cache: json4s-ast_2.11-3.6.10.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0mIncluding from cache: jackson-core-2.9.10.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0mIncluding from cache: json4s-scalap_2.11-3.6.10.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0mIncluding from cache: json4s-core_2.11-3.6.10.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0mIncluding from cache: jackson-databind-2.9.10.6.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0mIncluding from cache: scala-library-2.11.12.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0mCalculate mappings...[0m
+[0m[[0m[0mdebug[0m] [0m[0mChecking every *.class/*.jar file's SHA-1.[0m
+[0m[[0m[0mdebug[0m] [0m[0mMerging files...[0m
+[0m[[0m[0mdebug[0m] [0m[0mMerging 'META-INF/MANIFEST.MF' with strategy 'discard'[0m
+[0m[[0m[0mdebug[0m] [0m[0mMerging 'META-INF/maven/com.fasterxml.jackson.core/jackson-annotations/pom.properties' with strategy 'discard'[0m
+[0m[[0m[0mdebug[0m] [0m[0mMerging 'META-INF/maven/com.fasterxml.jackson.core/jackson-annotations/pom.xml' with strategy 'discard'[0m
+[0m[[0m[0mdebug[0m] [0m[0mMerging 'META-INF/maven/com.fasterxml.jackson.core/jackson-core/pom.properties' with strategy 'discard'[0m
+[0m[[0m[0mdebug[0m] [0m[0mMerging 'META-INF/maven/com.fasterxml.jackson.core/jackson-core/pom.xml' with strategy 'discard'[0m
+[0m[[0m[0mdebug[0m] [0m[0mMerging 'META-INF/maven/com.fasterxml.jackson.core/jackson-databind/pom.properties' with strategy 'discard'[0m
+[0m[[0m[0mdebug[0m] [0m[0mMerging 'META-INF/maven/com.fasterxml.jackson.core/jackson-databind/pom.xml' with strategy 'discard'[0m
+[0m[[0m[0mdebug[0m] [0m[0mMerging 'META-INF/maven/com.thoughtworks.paranamer/paranamer/pom.properties' with strategy 'discard'[0m
+[0m[[0m[0mdebug[0m] [0m[0mMerging 'META-INF/maven/com.thoughtworks.paranamer/paranamer/pom.xml' with strategy 'discard'[0m
+[0m[[0m[0minfo[0m] [0m[0mStrategy 'discard' was applied to 9 files (Run the task at debug level to see details)[0m
+[0m[[0m[0minfo[0m] [0m[0mAssembly up to date: /mnt/TERRADATA/OTUS/otus_scala_hw3/target/scala-2.11/otus_scala_hw3-assembly-0.1.jar[0m

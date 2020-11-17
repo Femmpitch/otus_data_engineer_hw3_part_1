@@ -1,0 +1,1 @@
+["sbt.Task[scala.collection.immutable.Map[java.lang.String, scala.collection.Seq[scala.Tuple2[java.nio.file.Path, sbt.nio.FileStamp]]]]",{"2.11.12":{"hashes":[["/mnt/TERRADATA/OTUS/otus_scala_hw3/src/main/scala/com/example/JsonReader.scala","f7e031d59a87e898bc5590c2bff072f755ed911d"]],"lastModifiedTimes":[]}}]
