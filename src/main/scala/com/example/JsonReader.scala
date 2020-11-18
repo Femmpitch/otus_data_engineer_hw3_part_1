@@ -1,3 +1,4 @@
+package com.example
 import org.apache.spark.sql.SparkSession
 import org.json4s.jackson.JsonMethods.parse
 
